@@ -1,0 +1,3 @@
+file1, file101, file111 are perfect match
+file72, file102, file107 are perfect match
+file40, file104, file108 are very close match 
